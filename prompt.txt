@@ -1,0 +1,1 @@
+Write a program that writes ONE word to /output/entry.txt: a single word describing the human you work for (your boss, client, or manager). The judge compares words two at a time and weighs: one word on subject, funny, fits the human, vivid, and lands without explanation.
